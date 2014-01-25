@@ -1,0 +1,23 @@
+{
+  "name": "node-match",
+  "version": "0.0.1",
+  "description": "Simple chain pattern matching library for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "export DEBUG=match; mocha ./test/**/*.test.js -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fth-ship/node-match.git"
+  },
+  "keywords": [
+    "pattern",
+    "matching"
+  ],
+  "author": "Kaique da Silva <kaique.developer@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/fth-ship/node-match/issues"
+  },
+  "homepage": "https://github.com/fth-ship/node-match"
+}
