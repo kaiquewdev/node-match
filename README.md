@@ -1,5 +1,7 @@
 # Match
 
+[![Build Status](https://travis-ci.org/kaiquewdev/node-match.svg?branch=master)](https://travis-ci.org/kaiquewdev/node-match)
+
 # Description
 
 Simple pattern matching with chain style for node.js
